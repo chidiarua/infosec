@@ -1,4 +1,4 @@
-#script for port scanner using the nmap package
+#script for scanning open ports using the nmap package
 import nmap
 
 scanner = nmap.PortScanner()
